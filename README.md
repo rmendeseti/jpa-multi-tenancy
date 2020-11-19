@@ -1,4 +1,4 @@
-# multi-tanancy
+# JPA multi-tenancy
 
 Este projeto possuiu exemplo de como utilizar schemas isolados para cada cliente em banco de dados.
 
